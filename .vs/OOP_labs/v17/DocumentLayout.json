@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games\\Arsenii\\OOP_labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_2\\C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_2\\C\u002B\u002B\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\Class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_2\\C\u002B\u002B\\Class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C#\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_2\\C#\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C#\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_2\\C#\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C#\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_0\\C#\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C#\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_0\\C#\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_0\\C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\Class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_0\\C\u002B\u002B\\Class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1_0\\C\u002B\u002B\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "Lab1_2\\C\u002B\u002B\\main.cpp",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "Lab1_2\\C\u002B\u002B\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T11:26:26.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.h",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\Class.h",
+              "RelativeDocumentMoniker": "Lab1_2\\C\u002B\u002B\\Class.h",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\Class.h",
+              "RelativeToolTip": "Lab1_2\\C\u002B\u002B\\Class.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T11:26:21.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cpp",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\Class.cpp",
+              "RelativeDocumentMoniker": "Lab1_2\\C\u002B\u002B\\Class.cpp",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C\u002B\u002B\\Class.cpp",
+              "RelativeToolTip": "Lab1_2\\C\u002B\u002B\\Class.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T11:25:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C#\\main.cs",
+              "RelativeDocumentMoniker": "Lab1_2\\C#\\main.cs",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C#\\main.cs",
+              "RelativeToolTip": "Lab1_2\\C#\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:25:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C#\\Class.cs",
+              "RelativeDocumentMoniker": "Lab1_2\\C#\\Class.cs",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_2\\C#\\Class.cs",
+              "RelativeToolTip": "Lab1_2\\C#\\Class.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:23:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "Lab1_0\\C\u002B\u002B\\main.cpp",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "Lab1_0\\C\u002B\u002B\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T11:22:26.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class.h",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\Class.h",
+              "RelativeDocumentMoniker": "Lab1_0\\C\u002B\u002B\\Class.h",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\Class.h",
+              "RelativeToolTip": "Lab1_0\\C\u002B\u002B\\Class.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T11:19:36.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cpp",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\Class.cpp",
+              "RelativeDocumentMoniker": "Lab1_0\\C\u002B\u002B\\Class.cpp",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C\u002B\u002B\\Class.cpp",
+              "RelativeToolTip": "Lab1_0\\C\u002B\u002B\\Class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T11:16:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C#\\main.cs",
+              "RelativeDocumentMoniker": "Lab1_0\\C#\\main.cs",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C#\\main.cs",
+              "RelativeToolTip": "Lab1_0\\C#\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:15:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C#\\Class.cs",
+              "RelativeDocumentMoniker": "Lab1_0\\C#\\Class.cs",
+              "ToolTip": "C:\\Games\\Arsenii\\OOP_labs\\Lab1_0\\C#\\Class.cs",
+              "RelativeToolTip": "Lab1_0\\C#\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:14:34.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
