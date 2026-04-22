@@ -1,0 +1,18 @@
+#ifndef CIRCLE_H
+#define CIRCLE_H
+#include "Figure.h"
+
+class Circle : public Figure {
+private:
+    double radius;
+
+public:
+    Circle(double r);
+    
+    double getRadius() const;
+    
+    double getArea() const override;
+    double getPerimeter() const override;
+};
+
+#endif

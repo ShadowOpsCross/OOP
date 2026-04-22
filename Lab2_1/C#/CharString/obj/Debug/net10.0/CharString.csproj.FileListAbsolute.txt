@@ -1,0 +1,15 @@
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\bin\Debug\net10.0\CharString.exe
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\bin\Debug\net10.0\CharString.deps.json
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\bin\Debug\net10.0\CharString.runtimeconfig.json
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\bin\Debug\net10.0\CharString.dll
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\bin\Debug\net10.0\CharString.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.AssemblyInfoInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.AssemblyInfo.cs
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.csproj.CoreCompileInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.sourcelink.json
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.dll
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\refint\CharString.dll
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\CharString.genruntimeconfig.cache
+C:\Games\Arsenii\OOP_labs\Lab2_1\C#\CharString\obj\Debug\net10.0\ref\CharString.dll

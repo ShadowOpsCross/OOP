@@ -1,0 +1,15 @@
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\bin\Debug\net10.0\Figure.exe
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\bin\Debug\net10.0\Figure.deps.json
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\bin\Debug\net10.0\Figure.runtimeconfig.json
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\bin\Debug\net10.0\Figure.dll
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\bin\Debug\net10.0\Figure.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.AssemblyInfoInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.AssemblyInfo.cs
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.csproj.CoreCompileInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.sourcelink.json
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.dll
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\refint\Figure.dll
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\Figure.genruntimeconfig.cache
+C:\Games\Arsenii\OOP_labs\Lab2_2\C#\Figure\obj\Debug\net10.0\ref\Figure.dll
