@@ -1,0 +1,15 @@
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.AssemblyInfoInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.AssemblyInfo.cs
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.csproj.CoreCompileInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.sourcelink.json
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\bin\Debug\net10.0\MathApp.exe
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\bin\Debug\net10.0\MathApp.deps.json
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\bin\Debug\net10.0\MathApp.runtimeconfig.json
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\bin\Debug\net10.0\MathApp.dll
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\bin\Debug\net10.0\MathApp.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.dll
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\refint\MathApp.dll
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\MathApp.genruntimeconfig.cache
+C:\Games\Arsenii\OOP_labs\Lab2_4\C#\MathApp\obj\Debug\net10.0\ref\MathApp.dll

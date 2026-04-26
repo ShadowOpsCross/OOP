@@ -1,0 +1,15 @@
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\bin\Debug\net10.0\CharReplacer.exe
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\bin\Debug\net10.0\CharReplacer.deps.json
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\bin\Debug\net10.0\CharReplacer.runtimeconfig.json
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\bin\Debug\net10.0\CharReplacer.dll
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\bin\Debug\net10.0\CharReplacer.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.AssemblyInfoInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.AssemblyInfo.cs
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.csproj.CoreCompileInputs.cache
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.sourcelink.json
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.dll
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\refint\CharReplacer.dll
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.pdb
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\CharReplacer.genruntimeconfig.cache
+C:\Games\Arsenii\OOP_labs\Lab2_3\C#\CharReplacer\obj\Debug\net10.0\ref\CharReplacer.dll
