@@ -1,0 +1,15 @@
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\bin\Debug\net10.0\Hometask.exe
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\bin\Debug\net10.0\Hometask.deps.json
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\bin\Debug\net10.0\Hometask.runtimeconfig.json
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\bin\Debug\net10.0\Hometask.dll
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\bin\Debug\net10.0\Hometask.pdb
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.AssemblyInfoInputs.cache
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.AssemblyInfo.cs
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.csproj.CoreCompileInputs.cache
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.sourcelink.json
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.dll
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\refint\Hometask.dll
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.pdb
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\Hometask.genruntimeconfig.cache
+C:\Games\Arsenii\OOP_labs\Hometask\Hometask\obj\Debug\net10.0\ref\Hometask.dll
